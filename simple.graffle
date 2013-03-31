@@ -53,6 +53,18 @@
 	<array>
 		<dict>
 			<key>Bounds</key>
+			<string>{{72, 71}, {72, 72}}</string>
+			<key>Class</key>
+			<string>ShapedGraphic</string>
+			<key>ID</key>
+			<integer>5</integer>
+			<key>Shape</key>
+			<string>Circle</string>
+			<key>Style</key>
+			<dict/>
+		</dict>
+		<dict>
+			<key>Bounds</key>
 			<string>{{92, 150}, {31, 22}}</string>
 			<key>Class</key>
 			<string>ShapedGraphic</string>
@@ -98,16 +110,6 @@
 			</dict>
 			<key>Wrap</key>
 			<string>NO</string>
-		</dict>
-		<dict>
-			<key>Bounds</key>
-			<string>{{72, 72}, {71, 71}}</string>
-			<key>Class</key>
-			<string>ShapedGraphic</string>
-			<key>ID</key>
-			<integer>3</integer>
-			<key>Shape</key>
-			<string>Rectangle</string>
 		</dict>
 	</array>
 	<key>GridInfo</key>
@@ -157,7 +159,7 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2013-03-31 22:55:59 +0000</string>
+	<string>2013-03-31 22:59:52 +0000</string>
 	<key>Modifier</key>
 	<string>paul</string>
 	<key>NotesVisible</key>
